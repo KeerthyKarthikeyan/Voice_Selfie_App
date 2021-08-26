@@ -1,0 +1,51 @@
+
+body{
+   background-color:lightcyan;
+   font-family: 'Fjalla One', sans-serif;
+   color: black;
+   font-weight: bold;
+
+
+}
+#start-btn
+{
+    width: 20%;
+    box-shadow:3px 3px 3px grey;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    box-shadow:5px 5px 5px black;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+}
+p{
+font-size: 20px;
+margin-top: 10px;
+
+
+}
+#main{
+    border: groove;
+    padding: 10px;
+    background-color: rgba(135, 216, 236, 0.938) ;
+}
+#camera{
+width: 360px;
+height: 260px;
+background: white;
+
+}
